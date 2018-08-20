@@ -1,0 +1,4 @@
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Contracts\bin\Debug\Inprout.Contracts.dll
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Contracts\bin\Debug\Inprout.Contracts.pdb
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Contracts\obj\Debug\Inprout.Contracts.dll
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Contracts\obj\Debug\Inprout.Contracts.pdb

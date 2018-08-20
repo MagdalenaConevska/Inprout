@@ -1,0 +1,4 @@
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Shared\bin\Debug\Inprout.Shared.dll
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Shared\bin\Debug\Inprout.Shared.pdb
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Shared\obj\Debug\Inprout.Shared.dll
+C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Shared\obj\Debug\Inprout.Shared.pdb
