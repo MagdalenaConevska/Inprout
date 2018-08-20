@@ -1,9 +1,0 @@
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\Inprout.Services.dll.config
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\Inprout.Services.dll
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\Inprout.Services.pdb
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\EntityFramework.dll
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\EntityFramework.xml
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\obj\Debug\Inprout.Services.dll
-C:\Users\Magdalena\Desktop\Inprout-repository\Inprout\src\Core\Inprout.Services\obj\Debug\Inprout.Services.pdb
