@@ -4,3 +4,16 @@
 
 /Inprout/src/Core/Inprout.Database/Inprout.Database.dbmdl
 /Inprout/packages
+/Inprout/src/Web/Inprout.Web.Api/bin
+/Inprout/src/Web/Inprout.Web.Api/obj
+/Inprout/src/Core/Inprout.Contracts/bin
+/Inprout/src/Core/Inprout.Contracts/obj
+/Inprout/src/Core/Inprout.Data/bin
+/Inprout/src/Core/Inprout.Data/obj
+/Inprout/src/Core/Inprout.Database/bin
+/Inprout/src/Core/Inprout.Database/obj
+/Inprout/src/Core/Inprout.Services/bin
+/Inprout/src/Core/Inprout.Services/obj
+/Inprout/src/Core/Inprout.Shared/bin
+/Inprout/src/Core/Inprout.Shared/obj
+/Inprout/.vs/Inprout/v14
