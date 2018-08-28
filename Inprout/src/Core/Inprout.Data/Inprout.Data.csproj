@@ -75,6 +75,8 @@
     <Compile Include="Context\InproutDbContextFactory.cs">
       <DependentUpon>InproutContext.tt</DependentUpon>
     </Compile>
+    <Compile Include="Entities\Contracts\IBaseEntity.cs" />
+    <Compile Include="Entities\Contracts\IDeletableEntity.cs" />
     <Compile Include="Entities\Entities.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -87,6 +89,12 @@
     <Compile Include="Configuration\UserConfiguration.cs">
       <DependentUpon>InproutConfiguration.tt</DependentUpon>
     </Compile>
+    <Compile Include="Repository\Contracts\IBaseRepository.cs" />
+    <Compile Include="Repository\Contracts\IDeletableRepository.cs" />
+    <Compile Include="Repository\Implementation\BaseRepository.cs" />
+    <Compile Include="Repository\Implementation\DeletableRepository.cs" />
+    <Compile Include="UnitOfWork\Contracts\IUnitOfWork.cs" />
+    <Compile Include="UnitOfWork\Implementation\UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

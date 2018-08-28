@@ -420,7 +420,7 @@
         return r.ToString();
         */
 
-        return "";
+        return ": Contracts.IDeletableEntity";
     };
 
     // Writes any boilerplate stuff inside the POCO class
