@@ -1,17 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Http;
-using System.Web.Routing;
-
-namespace Inprout.Web.Api
+﻿namespace Inprout.Web.Api
 {
-    public class WebApiApplication : System.Web.HttpApplication
+    using App_Start;
+    using Ninject;
+    using Ninject.Web.Common.WebHost;
+    using System.Web.Http;
+
+    public class WebApiApplication : NinjectHttpApplication
     {
-        protected void Application_Start()
+        protected override void OnApplicationStarted()
         {
+            base.OnApplicationStarted();
+
             GlobalConfiguration.Configure(WebApiConfig.Register);
+        }
+
+        protected override IKernel CreateKernel()
+        {
+            var kernel = new StandardKernel();
+
+            kernel.ToRegisterServices();
+
+            return kernel;
         }
     }
 }
